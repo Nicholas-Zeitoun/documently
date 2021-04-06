@@ -1,0 +1,6 @@
+[book]
+authors = ["DESKTOP-I8B979C\\Nicholas Zeitoun"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Installing mdbook"
